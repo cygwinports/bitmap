@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libX11_6 libXaw8 libXmu6 xbitmaps
+sdesc: "Xorg bitmap viewer and converter utilities"
+ldesc: "Xorg bitmap viewer and converter utilities"
