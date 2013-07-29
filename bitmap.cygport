@@ -4,7 +4,7 @@ NAME="bitmap"
 VERSION=1.0.7
 RELEASE=1
 CATEGORY="X11"
-SUMMARY="X.Org X bitmap viewer and converter utilities"
+SUMMARY="X bitmap viewer and converter utilities"
 DESCRIPTION="The bitmap program is a rudimentary tool for creating or editing
 rectangular images made up of 1s and 0s. Bitmaps are used in X for defining
 clipping regions, cursor shapes, icon shapes, and tile and stipple patterns.
